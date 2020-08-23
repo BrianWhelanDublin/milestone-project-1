@@ -1,0 +1,63 @@
+/* Google fonts import */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&family=Raleway:wght@200;300;400;500;600&display=swap");
+
+/*  Fonts */
+
+.navbar-brand,
+.booking-link {
+  font-family: "Montserrat Subrayada", sans-serif;
+}
+
+.nav-item {
+  font-family: "Raleway", sans-serif;
+}
+
+/*  Colours  */
+
+.navbar,
+.navbar-collapse {
+  background-color: #f5f4ef;
+}
+
+/* Selectors taking from google developer tools to change nav text color */
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+  color: #052d26;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #108f79;
+}
+
+/* links hover colour */
+
+a:hover,
+.navbar-light .navbar-brand:hover,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #108f79;
+}
+
+/*  Navbar section  */
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.nav-item {
+  margin-right: 3vw;
+}
+
+.booking-link {
+  color: #052d26;
+  
+  transition: 0.75s;
+  font-size: 1.5em;
+}
+
+.booking-link:hover {
+  text-decoration: none;
+  color: #108f79;
+  font-size: 1.75em;
+}
