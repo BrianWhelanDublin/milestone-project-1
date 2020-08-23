@@ -24,6 +24,6 @@ For my first milestone project for code institute I have created a website for a
 
 - I created wire frames for the project using Balsamiq and have included a link here to acsess them in pdf form.
 
-[View the wireframes in pdf here](assets/wireframes/milestone-project-1-wireframes.pdf)
+[View the wireframes in pdf here](wireframes/milestone-project-1-wireframes.pdf)
 
 
