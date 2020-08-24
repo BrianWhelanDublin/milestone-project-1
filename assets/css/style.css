@@ -51,6 +51,14 @@ h4 {
 .navbar-light .navbar-nav .active > .nav-link {
   color: #108f79;
 }
+/* Footer Links colour */
+
+.social-media-links a,
+.map-col a,
+.contact-col a {
+    color: #F5F4EF;
+}
+
 
 /* links hover colour */
 
@@ -265,4 +273,34 @@ a:hover,
     margin: auto;
      max-height: 80%;
     max-width: 90%;
+}
+
+/* Footer Section */
+
+.footer-container {
+    text-align: center;
+}
+
+.map-col,
+.contact-col {
+    display: block;
+    margin: auto;
+}
+
+.contact-col h3 {
+    font-size: 1.2em;
+}
+
+.contact-col p {
+    font-size: .75em;
+}
+
+
+.social-media-links {
+    font-size: 3.5vh;
+    text-align: center;
+}
+
+.social-media-links li {
+    padding: 2vw;
 }
