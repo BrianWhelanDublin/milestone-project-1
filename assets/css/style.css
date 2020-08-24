@@ -191,21 +191,24 @@ a:hover,
 }
 
 .room-img,
-.food-img {
+.food-img,
+.spa-img {
   max-width: 75vw;
   max-height: 90%;
 }
 
-/* Room Section*/
+/* Room and Spa Section*/
 
 
-.room-img{
+.room-img,
+.spa-img{
     position: absolute;
     right: 2%;
     bottom: 5%;
 }
 
-.room-title-text{
+.room-title-text,
+.spa-title-text{
     position: absolute;
     left: 5%;
     top: 1%;
