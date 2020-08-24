@@ -5,15 +5,36 @@
 /*  Fonts */
 
 .navbar-brand,
-.booking-link {
+.booking-link,
+h1,
+h2 {
   font-family: "Montserrat Subrayada", sans-serif;
 }
 
-.nav-item {
+.nav-item,
+p,
+h3,
+h4{
   font-family: "Raleway", sans-serif;
 }
 
 /*  Colours  */
+
+.stone-background {
+  background-color: #f5f4ef;
+}
+
+.dk-green-background {
+  background-color: #052d26;
+}
+
+.stone-text {
+  color: #f5f4ef;
+}
+
+.dk-green-text {
+  color: #052d26;
+}
 
 .navbar,
 .navbar-collapse {
@@ -51,7 +72,7 @@ a:hover,
 
 .booking-link {
   color: #052d26;
-  
+
   transition: 0.75s;
   font-size: 1.5em;
 }
