@@ -92,10 +92,13 @@ a:hover,
   font-size: 1.75em;
 }
 
-/* Main title and image section */
+/* Main title and image section  */
 
-.main-title-container {
+.main-title-container{
   height: 100vh;
+}
+.room-title-container{
+    height: 50vh;
 }
 
 .main-title-row,
@@ -103,7 +106,8 @@ a:hover,
   height: 100%;
 }
 
-.hotel-lobby-image {
+.hotel-lobby-image,
+.hotel-room-image {
   max-height: 90%;
   max-width: 100%;
 }
@@ -140,29 +144,22 @@ a:hover,
   margin-top: 50px;
 }
 
-@media (min-width: 820px) {
-  .title {
-    font-size: 16vw;
-  }
-  .sub-heading {
-    font-size: 5vw;
-  }
-}
+
 
 /* about section */
 
 .about-section-row {
-  height: 70vh;
+  height: 35vh;
 }
 
 .about-text {
   position: absolute;
-  top: 5%;
-  left: 10%;
+  top: 10%;
+  left: 15%;
 }
 
 .about-text h1 {
-  font-size: 8vw;
+  font-size: 7vw;
 }
 
 .about-section-arrow {
@@ -172,27 +169,14 @@ a:hover,
   bottom: 10%;
 }
 
-@media (max-width: 992px) and (orientation: portrait) {
-  .about-section-row {
-    height: 35vh;
-  }
-  .about-text {
-    top: 15%;
-    left: 15%;
-  }
-}
+
 
 /* Sections General */
 
 .section-row {
-  height: 65vh;
+  height: 45vh;
 }
 
-@media (max-width: 576px) {
-  .section-row {
-    height: 45vh;
-  }
-}
 
 .section-font-size {
   font-size: 8vw;
@@ -282,7 +266,8 @@ a:hover,
 }
 
 .map-col,
-.contact-col {
+.contact-col,
+.social-col {
     display: block;
     margin: auto;
 }
@@ -297,10 +282,34 @@ a:hover,
 
 
 .social-media-links {
-    font-size: 3.5vh;
+    font-size: 3vh;
     text-align: center;
 }
 
-.social-media-links li {
-    padding: 2vw;
+.social-media-links li{
+    padding: 20px;
+}
+
+
+/* @ media Querys */
+
+@media (min-width: 820px) {
+  .title {
+    font-size: 16vw;
+  }
+  .sub-heading {
+    font-size: 5vw;
+  }
+
+}
+
+
+@media (min-width: 576px) {
+  .section-row,
+  .about-section-row {
+    height: 65vh;
+  }
+  .room-title-container{
+    height: 100vh;
+}
 }
