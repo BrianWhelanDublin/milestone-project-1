@@ -190,7 +190,8 @@ a:hover,
   font-size: 8vw;
 }
 
-.room-img {
+.room-img,
+.food-img {
   max-width: 75vw;
   max-height: 90%;
 }
@@ -207,5 +208,19 @@ a:hover,
 .room-title-text{
     position: absolute;
     left: 5%;
+    top: 1%;
+}
+
+/* Food Section*/
+
+.food-img{
+    position: absolute;
+    left: 2%;
+    bottom: 5%;
+}
+
+.food-title-text{
+    position: absolute;
+    right: 5%;
     top: 1%;
 }
