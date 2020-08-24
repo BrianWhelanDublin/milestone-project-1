@@ -227,3 +227,17 @@ a:hover,
     right: 5%;
     top: 1%;
 }
+
+/* Packages Section*/
+
+.packages-col {
+    display: block;
+    margin: 50px auto;
+}
+
+.packages-text h2,
+.packages-text p,
+.packages-text a {
+    display: block;
+    text-align: center;
+}
