@@ -140,3 +140,36 @@ a:hover,
     font-size: 3vw;
   }
 }
+
+/* about section */
+
+.about-section-row {
+    height: 70vh;
+}
+
+.about-text {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+
+.about-text h1 {
+    font-size: 8vw;
+}
+
+.about-section-arrow {
+    font-size: 6vw;
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+}
+
+@media(max-width: 992px) and (orientation: portrait) {
+    .about-section-row {
+        height: 35vh;
+    }
+    .about-text {
+        top: 15%;
+        left: 15%;
+    }
+}
