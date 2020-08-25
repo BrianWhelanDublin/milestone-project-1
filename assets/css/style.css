@@ -15,7 +15,8 @@ h2 {
 p,
 h3,
 h4,
-li {
+li,
+.menu-link {
   font-family: "Raleway", sans-serif;
 }
 
