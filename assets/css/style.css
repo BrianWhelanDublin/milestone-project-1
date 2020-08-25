@@ -14,7 +14,8 @@ h2 {
 .nav-item,
 p,
 h3,
-h4 {
+h4,
+li{
   font-family: "Raleway", sans-serif;
 }
 
@@ -96,7 +97,7 @@ a:hover,
 .main-title-container {
   height: 100vh;
 }
-.sleep-title-container {
+.section-title-container {
   height: 50vh;
 }
 
@@ -106,7 +107,7 @@ a:hover,
 }
 
 .hotel-lobby-image,
-.hotel-room-image {
+.section-title-image {
   max-height: 90%;
   max-width: 100%;
 }
@@ -166,25 +167,25 @@ a:hover,
   bottom: 10%;
 }
 
-.sleep-about-text-col h2 {
+.section-about-text-col h2 {
   font-size: 5.5vw;
   margin: 50px 40px;
 }
 
-.sleep-video-col h2 {
+.section-video-col h2 {
   font-size: 4.5vw;
   text-align: center;
   margin-top: 40px;
 }
 
-.room-video {
+.section-video {
   display: block;
   margin: auto;
   max-height: 80%;
   max-width: 90%;
 }
 
-/* Sections General for landing page ans section pages */
+/* Sections General for landing page and section pages */
 
 .section-row {
   height: 45vh;
@@ -337,7 +338,7 @@ a:hover,
   .about-section-row {
     height: 65vh;
   }
-  .sleep-title-container {
+  .section-title-container {
     height: 100vh;
   }
 }
