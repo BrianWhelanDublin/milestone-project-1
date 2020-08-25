@@ -159,28 +159,29 @@ a:hover,
   font-size: 7vw;
 }
 
-.quote-col h2 {
-  font-size: 5vw;
-  text-align: center;
-  margin-top: 40px
-}
-
 .about-section-arrow {
   font-size: 6vw;
   position: absolute;
   right: 10%;
   bottom: 10%;
 }
+
+.sleep-about-text-col h2 {
+  font-size: 5.5vw;
+  margin: 50px 40px;
+}
+
+.sleep-video-col h2{
+    font-size: 4.5vw;
+    text-align: center;
+    margin-top: 40px;
+}
+
 .room-video {
   display: block;
   margin: auto;
   max-height: 80%;
   max-width: 90%;
-}
-.video-title {
-  font-size: 2rem;
-  text-align: center;
-  margin-top: 40px;
 }
 
 /* Sections General */
