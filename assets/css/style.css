@@ -97,9 +97,11 @@ a:hover,
 
 .main-title-container {
   height: 100vh;
+  margin-top: 50px;
 }
 .section-title-container {
   height: 50vh;
+  margin-top: 50px;
 }
 
 .main-title-row,
@@ -111,6 +113,7 @@ a:hover,
 .section-title-image {
   max-height: 90%;
   max-width: 100%;
+  margin-top: 10px;
 }
 
 .title-text-block {
@@ -302,6 +305,9 @@ a:hover,
 .social-col {
   display: block;
   margin: auto;
+  padding-top: 10px;
+
+  
 }
 
 .contact-col h3 {
