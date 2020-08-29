@@ -7,7 +7,8 @@
 .navbar-brand,
 .booking-link,
 h1,
-h2 {
+h2,
+.booking-form-btn {
   font-family: "Montserrat Subrayada", sans-serif;
 }
 
@@ -16,7 +17,8 @@ p,
 h3,
 h4,
 li,
-.menu-link {
+.menu-link,
+.booking-form {
   font-family: "Raleway", sans-serif;
 }
 
@@ -294,6 +296,22 @@ a:hover,
   max-width: 90%;
 }
 
+/* Booking form Section */
+
+.booking-form{
+    margin: 5%;
+}
+
+.form-heading {
+    font-size: 8vw;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.booking-form-btn {
+    margin-top: 25px;
+    border-radius: 0;
+}
 /* Footer Section */
 
 .footer-container {
@@ -306,8 +324,6 @@ a:hover,
   display: block;
   margin: auto;
   padding-top: 10px;
-
-  
 }
 
 .contact-col h3 {
@@ -327,6 +343,7 @@ a:hover,
   padding: 20px;
 }
 
+
 /* @ media Querys */
 
 @media (min-width: 820px) {
@@ -343,6 +360,9 @@ a:hover,
   .section-page-col-text h2 {
     font-size: 2.5rem;
   }
+  .booking-form-btn {
+   font-size: 2vw;
+}
 }
 
 @media (min-width: 576px) {
@@ -353,4 +373,7 @@ a:hover,
   .section-title-container {
     height: 100vh;
   }
+  .booking-form{
+    margin: 5% 10%;
+}
 }
