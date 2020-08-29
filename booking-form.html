@@ -51,28 +51,102 @@
             </div>
         </nav>
         <!--End of Nav-bar-->
+        <!--Booking Form title-->
+        <h1 class="bookin-form-title dk-green-text">Booking Form</h1>
     </header>
-
+    <!--Booking Form created using Bootstrap -->
     <section id="form-section">
         <div class="container-fluid form-container stone-background">
             <div class="row">
                 <div class="col-12">
                     <h1 class="dk-green-text form-heading">Booking form</h1>
-                    <form>
-                        <label for="fullname">Name</label>
-                        <input type="text" name="name" id="fullname" class="form-control" placeholder="Full Name"
-                            required />
-                        <label for="emailaddress">Email</label>
-                        <input type="text" name="email" id="emailaddress" class="form-control" placeholder="Email"
-                            required />
-                        <label for="phone">Contact Number</label>
-                        <input type="tel" name="phone-no" id="phone" class="form-control" placeholder="Contact Number"
-                            required />
-                        <label for="input-address">Address</label>
-                        <input type="text" class="form-control" id="input-address" placeholder="House/Apartment number"
-                            required />
-                        <input type="text" class="form-control" id="street-address" placeholder="Street" required />
-                        <input type="text" class="form-control" id="input-city" placeholder="City/Town" required />
+                    <form class="dk-green-text">
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="firstname">First Name</label>
+                                <input type="text" name="first-name" id="firstname" class="form-control"
+                                    placeholder="First Name" required />
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="surname">Surname</label>
+                                <input type="text" name="surname" id="surname" class="form-control"
+                                    placeholder="Surname" required />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="emailaddress">Email</label>
+                            <input type="text" name="email" id="emailaddress" class="form-control" placeholder="Email"
+                                required />
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Contact Number</label>
+                            <input type="tel" name="phone-no" id="phone" class="form-control"
+                                placeholder="Contact Number" required />
+                        </div>
+                        <div class="form-group">
+                            <label for="inputAddress">Address</label>
+                            <input type="text" class="form-control" id="inputAddress"
+                                placeholder="House / Apartment Number" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputAddress2">Address 2</label>
+                            <input type="text" class="form-control" id="inputAddress2" placeholder="Street Name"
+                                required>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputCity">City / Town</label>
+                                <input type="text" class="form-control" id="inputCity" required>
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="inputProvince">Province</label>
+                                <select id="inputProvince" class="form-control" required>
+                                    <option selected>Choose...</option>
+                                    <option>Leinster</option>
+                                    <option>Ulster</option>
+                                    <option>Connact</option>
+                                    <option>Munster</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-md-2">
+                                <label for="inputEircode">Eircode</label>
+                                <input type="text" class="form-control" id="inputEircode" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-3">
+                                <label for="no-of-rooms">Number of Rooms</label>
+                                <input type="number" class="form-control" id="no-of-rooms" name="number-of-rooms"
+                                    min="1" max="9" placeholder="0" required>
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="no-of-adults">Number of Adults</label>
+                                <input type="number" class="form-control" id="no-of-adults" name="number-of-adults"
+                                    min="1" max="18" placeholder="0" required>
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="no-of-children">Number of Children</label>
+                                <input type="number" class="form-control" id="no-of-children" name="number-of-children"
+                                    min="1" max="18" placeholder="0" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="arrival">Arrival Date</label>
+                                <input type="date" class="form-control" id="arrival" name="arrival-date" required>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="depart">Departure Date</label>
+                                <input type="date" class="form-control" id="depart" name="departure-date" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="requests">Special Requests</label>
+                            <textarea class="form-control" id="requests" rows="3"></textarea>
+                        </div>
+                        <div class="col-sm-10">
+                            <button type="submit" class="btn btn-outline-dark dk-green-text">Book Now</button>
+                        </div>
                     </form>
 
                 </div>
