@@ -9,7 +9,7 @@
 h1,
 h2,
 .booking-form-btn {
-  font-family: "Montserrat Subrayada", sans-serif;
+    font-family: "Montserrat Subrayada", sans-serif;
 }
 
 .nav-item,
@@ -19,289 +19,307 @@ h4,
 li,
 .menu-link,
 .booking-form {
-  font-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
 }
+
 
 /*  Colours  */
 
 .stone-background {
-  background-color: #f5f4ef;
+    background-color: #f5f4ef;
 }
 
 .dk-green-background {
-  background-color: #052d26;
+    background-color: #052d26;
 }
 
 .stone-text {
-  color: #f5f4ef;
+    color: #f5f4ef;
 }
 
 .dk-green-text {
-  color: #052d26;
+    color: #052d26;
 }
 
 .navbar,
 .navbar-collapse {
-  background-color: #f5f4ef;
+    background-color: #f5f4ef;
 }
+
 
 /* Selectors taking from google developer tools to change nav text color */
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-nav .nav-link {
-  color: #052d26;
+    color: #052d26;
 }
 
-.navbar-light .navbar-nav .active > .nav-link {
-  color: #108f79;
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #108f79;
 }
+
+
 /* Footer Links colour */
 
 .social-media-links a,
 .map-col a,
 .contact-col a {
-  color: #f5f4ef;
+    color: #f5f4ef;
 }
+
 
 /* links hover colour */
 
 a:hover,
 .navbar-light .navbar-brand:hover,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #108f79;
+    color: #108f79;
 }
+
 
 /*  Navbar section  */
 
 .navbar-collapse {
-  justify-content: flex-end;
+    justify-content: flex-end;
 }
 
 .nav-item {
-  margin-right: 3vw;
+    margin-right: 3vw;
 }
+
 
 /* Booking Link */
 
 .booking-link {
-  color: #052d26;
-  transition: 0.75s;
-  font-size: 1.5em;
+    color: #052d26;
+    transition: 0.75s;
+    font-size: 1.5em;
 }
 
 .booking-link:hover {
-  text-decoration: none;
-  color: #108f79;
-  font-size: 1.75em;
+    text-decoration: none;
+    color: #108f79;
+    font-size: 1.75em;
 }
+
 
 /* Main title and image section for landing page and section pages  */
 
 .main-title-container {
-  height: 100vh;
-  margin-top: 50px;
+    height: 100vh;
+    margin-top: 50px;
 }
+
 .section-title-container {
-  height: 50vh;
-  margin-top: 50px;
+    height: 50vh;
+    margin-top: 50px;
 }
 
 .main-title-row,
 .main-title-col {
-  height: 100%;
+    height: 100%;
 }
 
 .hotel-lobby-image,
 .section-title-image {
-  max-height: 90%;
-  max-width: 100%;
-  margin-top: 10px;
+    max-height: 90%;
+    max-width: 100%;
+    margin-top: 10px;
 }
 
 .title-text-block {
-  position: absolute;
-  bottom: 10%;
-  width: 95%;
-  padding-top: 10%;
+    position: absolute;
+    bottom: 10%;
+    width: 95%;
+    padding-top: 10%;
 }
 
 .title,
 .section-title {
-  font-size: 10vw;
-  margin-top: 40%;
-  margin-right: 0;
-  text-align: center;
+    font-size: 10vw;
+    margin-top: 40%;
+    margin-right: 0;
+    text-align: center;
 }
-.section-title{
-background-color: rgba(239, 241, 243, .6)
+
+.section-title {
+    background-color: rgba(239, 241, 243, .6)
 }
+
 .sub-heading {
-  font-size: 3vw;
-  text-align: right;
-  padding-right: 15%;
+    font-size: 3vw;
+    text-align: right;
+    padding-right: 15%;
 }
 
 .main-section-arrow {
-  font-size: 6vw;
-  text-align: right;
-  padding-right: 10%;
+    font-size: 6vw;
+    text-align: right;
+    padding-right: 10%;
 }
 
 .main-booking-link {
-  display: block;
-  text-align: center;
-  margin-top: 50px;
+    display: block;
+    text-align: center;
+    margin-top: 50px;
 }
+
 
 /* about section on landing page and section pages */
 
 .about-section-row {
-  height: 35vh;
+    height: 35vh;
 }
 
 .about-text {
-  position: absolute;
-  top: 10%;
-  left: 15%;
+    position: absolute;
+    top: 10%;
+    left: 15%;
 }
 
 .about-text h1 {
-  font-size: 7vw;
+    font-size: 7vw;
 }
 
 .about-section-arrow {
-  font-size: 6vw;
-  position: absolute;
-  right: 10%;
-  bottom: 10%;
+    font-size: 6vw;
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
 }
 
 .section-about-text-col h2 {
-  font-size: 5.5vw;
-  margin: 50px 40px;
+    font-size: 5.5vw;
+    margin: 50px 40px;
 }
 
 .section-video-col h2 {
-  font-size: 4.5vw;
-  text-align: center;
-  margin-top: 40px;
+    font-size: 4.5vw;
+    text-align: center;
+    margin-top: 40px;
 }
 
 .section-video {
-  display: block;
-  margin: auto;
-  max-height: 80%;
-  max-width: 90%;
+    display: block;
+    margin: auto;
+    max-height: 80%;
+    max-width: 90%;
 }
+
 
 /* Sections General for landing page and section pages */
 
 .section-row {
-  height: 45vh;
+    height: 45vh;
 }
 
 .section-font-size {
-  font-size: 8vw;
+    font-size: 8vw;
 }
 
 .room-img,
 .food-img,
 .spa-img,
 .section-page-img {
-  max-width: 80%;
-  max-height: 90%;
+    max-width: 80%;
+    max-height: 90%;
 }
 
 .section-page-row img {
-  display: block;
-  margin: 50px auto;
+    display: block;
+    margin: 50px auto;
 }
 
 .section-page-col-text {
-  margin: 25px 10px;
-  font-size: 1rem;
+    margin: 25px 10px;
+    font-size: 1rem;
 }
 
 .section-page-col-text h2 {
-  font-size: 2rem;
+    font-size: 2rem;
 }
 
-.menu-link{
-    color:#052d26;
+.menu-link {
+    color: #052d26;
 }
+
 
 /* Room and Spa Section*/
 
 .room-img,
 .spa-img {
-  position: absolute;
-  right: 2%;
-  bottom: 5%;
+    position: absolute;
+    right: 2%;
+    bottom: 5%;
 }
 
 .room-title-text,
 .spa-title-text {
-  position: absolute;
-  left: 5%;
-  top: 1%;
+    position: absolute;
+    left: 5%;
+    top: 1%;
 }
+
 
 /* Food Section*/
 
 .food-img {
-  position: absolute;
-  left: 2%;
-  bottom: 5%;
+    position: absolute;
+    left: 2%;
+    bottom: 5%;
 }
 
 .food-title-text {
-  position: absolute;
-  right: 5%;
-  top: 1%;
+    position: absolute;
+    right: 5%;
+    top: 1%;
 }
+
 
 /* Packages Section*/
 
 .packages-col {
-  display: block;
-  margin: 50px auto;
+    display: block;
+    margin: 50px auto;
 }
 
 .packages-text h2,
 .packages-text p,
 .packages-text a {
-  display: block;
-  text-align: center;
+    display: block;
+    text-align: center;
 }
+
 
 /* Plan Section */
 
 .plan-text-col h1,
 .plan-map-col h1 {
-  font-size: 4rem;
-  text-align: center;
+    font-size: 4rem;
+    text-align: center;
 }
 
 .plan-text {
-  margin-top: 50px;
-  text-align: center;
-  font-size: 1.5rem;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1.5rem;
 }
 
 .plan-text p {
-  letter-spacing: 2px;
+    letter-spacing: 2px;
 }
 
 .plan-map-col iframe {
-  display: block;
-  margin: auto;
-  max-height: 80%;
-  max-width: 90%;
+    display: block;
+    margin: auto;
+    max-height: 80%;
+    max-width: 90%;
 }
+
 
 /* Booking form Section */
 
-.booking-form{
+.booking-form {
     margin: 5%;
 }
 
@@ -315,68 +333,70 @@ background-color: rgba(239, 241, 243, .6)
     margin-top: 25px;
     border-radius: 0;
 }
+
+
 /* Footer Section */
 
 .footer-container {
-  text-align: center;
+    text-align: center;
 }
 
 .map-col,
 .contact-col,
 .social-col {
-  display: block;
-  margin: auto;
-  padding-top: 10px;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
 }
 
 .contact-col h3 {
-  font-size: 1.2em;
+    font-size: 1.2em;
 }
 
 .contact-col p {
-  font-size: 0.75em;
+    font-size: 0.75em;
 }
 
 .social-media-links {
-  font-size: 3vh;
-  text-align: center;
+    font-size: 3vh;
+    text-align: center;
 }
 
 .social-media-links li {
-  padding: 20px;
+    padding: 20px;
 }
 
 
 /* @ media Querys */
 
 @media (min-width: 820px) {
-  .title {
-    font-size: 16vw;
-  }
-  .sub-heading {
-    font-size: 5vw;
-  }
-  .section-page-col-text {
-    margin: 75px 50px;
-    font-size: 1.5rem;
-  }
-  .section-page-col-text h2 {
-    font-size: 2.5rem;
-  }
-  .booking-form-btn {
-   font-size: 2vw;
-}
+    .title {
+        font-size: 16vw;
+    }
+    .sub-heading {
+        font-size: 5vw;
+    }
+    .section-page-col-text {
+        margin: 75px 50px;
+        font-size: 1.5rem;
+    }
+    .section-page-col-text h2 {
+        font-size: 2.5rem;
+    }
+    .booking-form-btn {
+        font-size: 2vw;
+    }
 }
 
 @media (min-width: 576px) {
-  .section-row,
-  .about-section-row {
-    height: 65vh;
-  }
-  .section-title-container {
-    height: 100vh;
-  }
-  .booking-form{
-    margin: 5% 10%;
-}
+    .section-row,
+    .about-section-row {
+        height: 65vh;
+    }
+    .section-title-container {
+        height: 100vh;
+    }
+    .booking-form {
+        margin: 5% 10%;
+    }
 }
