@@ -106,3 +106,89 @@
 
 - Booking- In the future as I learn how to I would like to add a feature that thanks a customer for booking when they submit the form.
 
+
+## Technologies used
+
+### Languages Used.
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+
+### Frameworks Libraries and Programs
+
+- [Bootstrap 4](https://getbootstrap.com/) 
+  - I used bootstrap throughout the site to make it responsive. I also used bootstrap to create the navbar and to create the booking form. 
+  
+- [Google Fonts](https://fonts.google.com/)
+  - Two fonts were imported from google fonts. Monsterrat Subrayada the headings, and Raleway for the other text.
+  
+- [Font awesome](https://fontawesome.com/)
+  - I used different icons from font awesome throughout the site for design features and for user experience to encourage users to scroll.
+
+- [Git](https://git-scm.com/)
+  - Git was used as a version control in the terminal.
+
+- [Github](https://github.com/)
+  - Github was used to create and store the project repository.
+
+- [Gitpod](https://gitpod.io/)
+  - Gitpod was used to create my files and code the project.
+
+- [Balsamiq](https://balsamiq.com/)
+  - Balsamiq was used to create Wireframes for the project during the initial planning stage.
+
+- [Am I responsive](http://ami.responsivedesign.is/)
+  - Am i responsive was used to take screenshots of the page at different screen sizes.
+
+- [jQuery](https://jquery.com/)
+  - jQuery was imported from bootstrap to make the navbar responsive on smaller screen sizes. 
+
+
+## Testing
+
+### Testing User Stories
+
+### Prospective guest
+
+ - As a prospective hotel guest I would like to be able to see images of the hotel rooms and their prices.
+
+   - On the landing page there is a room section entitled Sleep with an arrow the user can click to get to the room section page.
+   - There is also a link to the sleep page on the navbar so users can navigate to it from any page.
+   - Once on this section page there are images of the 3 types of rooms for the user to see.
+   - There is also a brief description of the rooms amenities
+   - There is also a video showing a room tour.
+   - There is a from price per night shown for each type of room for the user to see the cost. 
+   - I have tested all the links to make sure they work.
+
+ - As a prospective hotel guest I would like to see what food option there are at the hotel and their menus.
+
+   - The Landing page also contains a section entitled Eat for the food and drink options with an arrow that the user can click to get to the Eat section page .
+    - There is also a link to the Eat page on the navbar so users can navigate to it from any page.
+   - Once on this section page there are images of the resturant, the cafe, and the bar so the user can see what option there are.
+   - There is also a video showing a dish being made in the resturaunt.
+   - There are links to pdf versions of the resturant menu, a wine list and the coctail list so the user can see before their stay.
+   - I have tested all the links to make sure they work.
+
+ - As a prospective hotel guest I would like to see what leisure activities there are at the hotel.
+   - The Landing page also contains a section entitled Relax for the spa and leisure options with an arrow that the user can click to get to the Relax section page.
+    - There is also a link to the Relax page on the navbar so users can navigate to it from any page.
+   - Once on this section page there are images of the spa, and the gym and pool for the user to see the options.
+   - There is also a video showing a treatment being carried out in the spa.
+   - There is a link to a pdf version of the spa treatment list so the user can see what treatments are available.
+   - I have tested all the links to make sure they work.
+
+
+ - As a prospective hotel guest I would like to be able to book a room.
+
+   - There is a booking link in the navbar on larger screens and just below the title on smaller screens that the user can click to get to the booking form.
+   - On the Sleep page under each room descrption there is a link to the booking form.
+   - The booking form requires all the information and has been tested, not filled out, half filled out and the user will be informed of sections they missed. 
+   - the booking form will reset after the form is filled out and the book now button is clicked.
+
+ - As a prospective hotel guest I would like to see if there are any packages for the hotel.
+   - On the main landing page there is a section that contains information on the hotel packages. 
+   - There is a link to this section on the navbar on each page. 
+   - each package also has a book now link.
+
