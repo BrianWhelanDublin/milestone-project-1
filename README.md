@@ -252,4 +252,9 @@ To deploy my project I used github pages.
 ### Content.
 
  - All content was written by myself.
- 
+
+###  Acknowledgements
+
+- Code Institute for getting me to this point
+
+- My Mentor for his help with this project.
