@@ -215,4 +215,41 @@
 
 ### Code Testing
 
-[css](https://jigsaw.w3.org/css-validator/validator#warnings)
+- My code has been passed throught the w3c Css and HTML validator and has passed on each.
+
+
+### Further Testing
+
+
+## Deployment
+
+### Github pages
+
+To deploy my project I used github pages.
+
+1. First sign into github and locate your repository
+2. At the top of the repository select the settings option.
+3. Scroll down the page untill you reach the github pages section.
+4. Under sources select Master Branch.
+5. The page will then refresh.
+6. Scroll back down and the link to your deployed page will now be visible.
+
+
+## Credits
+
+### Code 
+
+- [Bootstrap 4](https://getbootstrap.com/) code was used to create the navbar and the booking-form. It was also used to make the website responsive using it's grid system.
+
+### Media
+
+  - [Unsplash](https://unsplash.com/)
+    - Unsplash was used to source some of the images for the site.
+  
+  - [Pexels](https://www.pexels.com/)
+    - Pexels was used to source some images and the videos for the site.
+
+### Content.
+
+ - All content was written by myself.
+ 
