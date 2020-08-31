@@ -144,9 +144,10 @@ a:hover,
 }
 
 .sub-heading {
-    font-size: 3vw;
+    font-size: 2rem;
     text-align: right;
     padding-right: 6%;
+    background-color: rgba(239, 241, 243, .6)
 }
 
 .main-section-arrow {
@@ -374,6 +375,10 @@ a:hover,
     .sub-heading {
         font-size: 5vw;
     }
+    .title,
+    .sub-heading{
+        background-color: rgba(0,0, 0, 0);
+    }
     .section-page-col-text {
         margin: 75px 50px;
         font-size: 1.5rem;
@@ -396,5 +401,6 @@ a:hover,
     }
     .booking-form {
         margin: 5% 10%;
+
     }
 }
