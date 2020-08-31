@@ -124,38 +124,35 @@ a:hover,
 .section-title-image {
     max-height: 90%;
     max-width: 100%;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .title-text-block {
     position: absolute;
-    bottom: 10%;
+    bottom: 15%;
     width: 95%;
-    padding-top: 10%;
+  
 }
 
 .title,
 .section-title {
-    font-size: 10vw;
+    font-size: 4rem;
     margin-top: 40%;
     margin-right: 0;
     text-align: center;
-}
-
-.section-title {
     background-color: rgba(239, 241, 243, .6)
 }
 
 .sub-heading {
     font-size: 3vw;
     text-align: right;
-    padding-right: 15%;
+    padding-right: 6%;
 }
 
 .main-section-arrow {
     font-size: 6vw;
     text-align: right;
-    padding-right: 10%;
+    padding-right: 2%;
 }
 
 .main-booking-link {
@@ -370,7 +367,8 @@ a:hover,
 /* @ media Querys */
 
 @media (min-width: 820px) {
-    .title {
+   .title,
+   .section-title {
         font-size: 16vw;
     }
     .sub-heading {
