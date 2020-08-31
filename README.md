@@ -1,9 +1,13 @@
 # The Oslo Hotel Website
 ## Mileston Project 1
 
-The aim of this project is to create a static front end site of at least 3 pages or sections using HTML and Css and optional bootstrap or other libraries. The aim of the site is to present useful information in an ordered way to a set of users.
+The aim of this project is to create a static front end site of at least 3 pages or sections using the technologies I have learned so far such as, HTML, Css, and optional Bootstrap or other libraries. The aim of the site is to present useful information in an ordered way to a set of users.
 I have decided to created a website for a fictional hotel. I have utilized all the elements I have learned in the previous moduals to create this page and used principals of good user experience to create a responsive, well designed functional website.
+My site consists of a landing page to introduce the hotel and the section pages. The site then has 3 pages, one for the hotel guestrooms, one for the hotel food and bar options, and the final for the spa and leisure options. There is also a booking form section for potention guest to fill out to book rooms.
 
+## Screenshots
+
+[Landing page screenshot(assets/screenshots/landing-page-screenshot.png)]
 
 [View the live project here.](https://brianwhelandublin.github.io/milestone-project-1/)
 
