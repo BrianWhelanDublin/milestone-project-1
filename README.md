@@ -98,7 +98,7 @@
 
 - Social - Links to social media in the footer section.
 
-- Booking - A bookin form for users to book their stay.
+- Booking - A booking form for users to book their stay.
 
 - Informative - Packages section to show the user the packages and prices for their stay.
 
