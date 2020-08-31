@@ -7,7 +7,7 @@ My site consists of a landing page to introduce the hotel and the section pages.
 
 ## Screenshots
 
-[Landing page screenshot](assets/screenshots/landing-page-screenshot.png)
+[Landing page screenshot](assets/images/screenshots/landing-page-screenshot.png)
 
 [View the live project here.](https://brianwhelandublin.github.io/milestone-project-1/)
 
