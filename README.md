@@ -104,7 +104,7 @@
 
 ### Future Features
 
-- Booking- In the future as I learn how to I would like to add a feature that thanks a customer for booking when they submit the form.
+- Booking- In the future as I learn how to I would like to add a feature that thanks a customer for booking when they submit the form. 
 
 
 ## Technologies used
@@ -160,35 +160,59 @@
    - There is also a brief description of the rooms amenities
    - There is also a video showing a room tour.
    - There is a from price per night shown for each type of room for the user to see the cost. 
-   - I have tested all the links to make sure they work.
+   - All links have been tested and shown to work.
 
  - As a prospective hotel guest I would like to see what food option there are at the hotel and their menus.
 
    - The Landing page also contains a section entitled Eat for the food and drink options with an arrow that the user can click to get to the Eat section page .
     - There is also a link to the Eat page on the navbar so users can navigate to it from any page.
-   - Once on this section page there are images of the resturant, the cafe, and the bar so the user can see what option there are.
-   - There is also a video showing a dish being made in the resturaunt.
-   - There are links to pdf versions of the resturant menu, a wine list and the coctail list so the user can see before their stay.
-   - I have tested all the links to make sure they work.
+   - Once on this section page there are images of the restaurant, the cafe, and the bar so the user can see what option there are.
+   - There is also a video showing a dish being made in the restaurant.
+   - There are links to pdf versions of the restaurant menu, a wine list and the cocktail list so the user can see before their stay.
+   - All links have been tested and shown to work.
 
  - As a prospective hotel guest I would like to see what leisure activities there are at the hotel.
+
    - The Landing page also contains a section entitled Relax for the spa and leisure options with an arrow that the user can click to get to the Relax section page.
     - There is also a link to the Relax page on the navbar so users can navigate to it from any page.
    - Once on this section page there are images of the spa, and the gym and pool for the user to see the options.
    - There is also a video showing a treatment being carried out in the spa.
    - There is a link to a pdf version of the spa treatment list so the user can see what treatments are available.
-   - I have tested all the links to make sure they work.
+   - All links have been tested and shown to work.
 
 
  - As a prospective hotel guest I would like to be able to book a room.
 
    - There is a booking link in the navbar on larger screens and just below the title on smaller screens that the user can click to get to the booking form.
-   - On the Sleep page under each room descrption there is a link to the booking form.
+   - On the Sleep page under each room description there is a link to the booking form.
    - The booking form requires all the information and has been tested, not filled out, half filled out and the user will be informed of sections they missed. 
    - the booking form will reset after the form is filled out and the book now button is clicked.
+   - All links have been tested and shown to work.
 
  - As a prospective hotel guest I would like to see if there are any packages for the hotel.
+
    - On the main landing page there is a section that contains information on the hotel packages. 
    - There is a link to this section on the navbar on each page. 
-   - each package also has a book now link.
+   - Each package also has a book now link.
+   - All links have been tested and shown to work.
 
+### Booked Guest
+
+- As a booked guest I would like to see the hotel location and how to get there from the airport.
+  - On the home page there is a plan section that is linked to from the navbar of all pages and it contains location information and how to get to the hotel from the airport.
+  - There is also an iFrame of the map on this page.
+  - There is also a link to the map in the footer accessible from all pages.
+  - All links have been tested and shown to work.
+  
+- As a booked guest I would like to see the hotel contact information.
+  - The hotel contact information is contained in the footer. The email is linked to open in the email application.
+  - This contact section is linked to from the navbar.
+  - All links have been tested and shown to work.
+
+- As a booked guest I would like to see what the rooms contain.
+  - In the room section the different rooms are clearly titled and their amenities are listed.
+  - Icons are used to make this visual 
+
+### Code Testing
+
+[css](https://jigsaw.w3.org/css-validator/validator#warnings)
