@@ -69,11 +69,40 @@
 ### Imagery 
 
 - Imagery was very important to me and I choose images that conveyed the feel of the hotel I wanted to present and placed them throughout the site.
-- Each section consists of a main title image that conveys to the user what the section is. 
-- I then placed images of guestrooms and resturants etc throughout the site so the user can see what the hotel is like.
+- Each section consists of a main title image that conveys to the user what the section is about. 
+- I then placed images of the guest rooms, the restaurants and the spa and gym throughout the site so the user can see what the hotel is like.
 - I used two sources for my images.
   - [Unsplash](https://unsplash.com/)
   - [Pexels](https://www.pexels.com/)
-- I also placed video in each of the section pages with controls so the user can take a room tour, see some food being prepared for the resturante and see a treatment in the spa.
+- I also placed video in each of the section pages with controls so the user can take a room tour, see some food being prepared for the resturant and see a treatment in the spa.
 - All video was sourced from.
   - [Pexels](https://www.pexels.com/)
+
+### Icons
+
+- I used directional arrow icons from [Font Awsome](https://fontawesome.com/) to encourage users to scroll and to show links to a seperate section page.
+
+
+
+## Features
+
+### Current Features
+
+ - Reponsive 
+   - Through using mobile first design I have created a fully responsive wbsite on all screen sizes
+
+ - Interactive 
+   - Videos placed on each section page with controls so the user can choose to play it.
+   - Google map iframe to show users the location of the hotel.
+   - Drop down navbar on smaller devices.
+
+- Social - Links to social media in the footer section.
+
+- Booking - A bookin form for users to book their stay.
+
+- Informative - Packages section to show the user the packages and prices for their stay.
+
+### Future Features
+
+- Booking- In the future as I learn how to I would like to add a feature that thanks a customer for booking when they submit the form.
+
