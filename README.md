@@ -220,6 +220,8 @@
 
 ### Further Testing
 
+Once finished I tested the site across different screen sizes and different browsers. I noticed the date attribute wasnt appearing on safari so i added placeholder text to show the format the date would be expected. I also noticed some minor spelling mistakes which I have fixed. I've also checked all links to make sure they work too. 
+
 
 ## Deployment
 
