@@ -215,13 +215,16 @@
 
 ### Code Testing
 
-- My code has been passed throught the w3c Css and HTML validator and has passed on each.
+- My code has been passed throught the W3C, Css and HTML validator and has passed on each.
 
 
 ### Further Testing
 
-Once finished I tested the site across different screen sizes and different browsers. I noticed the date attribute wasnt appearing on safari so i added placeholder text to show the format the date would be expected. I also noticed some minor spelling mistakes which I have fixed. I've also checked all links to make sure they work too. 
-
+Once finished I tested the site across different screen sizes and different browsers. 
+- I noticed the heading text was very small and less noticeable on smaller screens so I enlarged its size and added an opaque background to make it stand out more.
+- I noticed the date attribute wasn't appearing on safari so I added placeholder text to show the format that the date would be expected. 
+- I also noticed some minor spelling mistakes which I have fixed. 
+- I've also checked all links numerous times to make sure they all work. 
 
 ## Deployment
 
