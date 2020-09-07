@@ -22,7 +22,6 @@ li,
     font-family: "Raleway", sans-serif;
 }
 
-
 /*  Colours  */
 
 .stone-background {
@@ -46,7 +45,6 @@ li,
     background-color: #f5f4ef;
 }
 
-
 /* Selectors taking from google developer tools to change nav text color */
 
 .navbar-light .navbar-brand,
@@ -58,7 +56,6 @@ li,
     color: #108f79;
 }
 
-
 /* Footer Links colour */
 
 .social-media-links a,
@@ -67,7 +64,6 @@ li,
     color: #f5f4ef;
 }
 
-
 /* links hover colour */
 
 a:hover,
@@ -75,7 +71,6 @@ a:hover,
 .navbar-light .navbar-nav .nav-link:hover {
     color: #108f79;
 }
-
 
 /*  Navbar section  */
 
@@ -86,7 +81,6 @@ a:hover,
 .nav-item {
     margin-right: 3vw;
 }
-
 
 /* Booking Link */
 
@@ -101,7 +95,6 @@ a:hover,
     color: #108f79;
     font-size: 1.75em;
 }
-
 
 /* Main title and image section for landing page and section pages  */
 
@@ -162,7 +155,6 @@ a:hover,
     margin-top: 50px;
 }
 
-
 /* about section on landing page and section pages */
 
 .about-section-row {
@@ -204,7 +196,6 @@ a:hover,
     max-width: 90%;
 }
 
-
 /* Sections General for landing page and section pages */
 
 .section-row {
@@ -241,7 +232,6 @@ a:hover,
     color: #052d26;
 }
 
-
 /* Room and Spa Section*/
 
 .room-img,
@@ -258,7 +248,6 @@ a:hover,
     top: 1%;
 }
 
-
 /* Food Section*/
 
 .food-img {
@@ -273,7 +262,6 @@ a:hover,
     top: 1%;
 }
 
-
 /* Packages Section*/
 
 .packages-col {
@@ -287,7 +275,6 @@ a:hover,
     display: block;
     text-align: center;
 }
-
 
 /* Plan Section */
 
@@ -314,7 +301,6 @@ a:hover,
     max-width: 90%;
 }
 
-
 /* Booking form Section */
 
 .booking-form {
@@ -331,7 +317,6 @@ a:hover,
     margin-top: 25px;
     border-radius: 0;
 }
-
 
 /* Footer Section */
 
@@ -363,7 +348,6 @@ a:hover,
 .social-media-links li {
     padding: 20px;
 }
-
 
 /* @ media Querys */
 
