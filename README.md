@@ -15,15 +15,15 @@
 
 ### Landing page screenshot
 
-<h2 align="center"><img src="assets/images/screenshots/landing-page-screenshot.png"></h2>
+<h3 align="center"><img src="assets/images/screenshots/landing-page-screenshot.png"></h2>
 
 ### Section page screenshot
 
-<h2 align="center"><img src="assets/images/screenshots/section-page-screenshot.png"></h2>
+<h3 align="center"><img src="assets/images/screenshots/section-page-screenshot.png"></h2>
 
 ### Booking-form screenshot
 
-<h2 align="center"><img src="assets/images/screenshots/booking-form-screenshot.png"></h2>
+<h3 align="center"><img src="assets/images/screenshots/booking-form-screenshot.png"></h2>
 
 
 - All screen shots created using [Am I responsive](http://ami.responsivedesign.is/)
