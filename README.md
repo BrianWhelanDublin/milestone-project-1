@@ -215,7 +215,9 @@
 
 ### Code Testing
 
-- My code has been passed throught the W3C, Css and HTML validator and has passed on each.
+ - My code has been passed throught the W3C, Css and HTML validator.
+
+   - Home page passed [Results](validator-results/homepage-results.png)
 
 
 ### Further Testing
