@@ -218,28 +218,54 @@
  - My code has been passed throught the W3C, Css and HTML validator.
 
    - Home page passed [Results](validator-results/homepage-results.png)
+   - Sleep page passed [Results](validator-results/sleep-results.png)
+   - Eat page passed [Results](validator-results/eat-results.png)
+   - Relax page passed [Results](validator-results/relax-results.png)
+   - Booking form had a warning that input type="date didn't work on all browsers. [Results](validator-results/booking-form-results.png) 
+   - CSS file passed [Results](validator-results/css-results.png)
+
+#### Know issues
+
+ - When I passed my booking form HTML code through the validator It warned that the input type="date" didn't work on all browsers. When I researched the issue the solution seemed to be to add some javascript to place a pollyfill. As this is currently out of my scope of knowledge I instead placed the date format of dd/mm/yyyy in the label for the date input to show the user what is expected in this input section. As my knowledge of javascript improves I will revisit the issue to improve on the solution.
 
 
-### Further Testing
+#### Further Testing
 
 Once finished I tested the site across different screen sizes and different browsers. 
 - I noticed the heading text was very small and less noticeable on smaller screens so I enlarged its size and added an opaque background to make it stand out more.
-- I noticed the date attribute wasn't appearing on safari so I added placeholder text to show the format that the date would be expected. 
 - I also noticed some minor spelling mistakes which I have fixed. 
 - I've also checked all links numerous times to make sure they all work. 
 
+
 ## Deployment
 
-### Github pages
 
-To deploy my project I used github pages.
+### Github, Gitpod, Git and Gitub pages
 
-1. First sign into github and locate your repository
-2. At the top of the repository select the settings option.
-3. Scroll down the page untill you reach the github pages section.
-4. Under sources select Master Branch.
-5. The page will then refresh.
-6. Scroll back down and the link to your deployed page will now be visible.
+To start the project I used Github and Gitpod.
+
+1. I first created a repository cloning the Code Institutes template on my github page.
+2. Once created I opened the page in Gitpod.
+3. I then used the terminal to create my index.html file ie, touch index.html.
+4. I then created my assets folder ie, mkdir assets, to hold my images and my css folder.
+5. I then created the style.css file within the css folder.
+6. I then created the other pages sleep.html, eat.html, relax.html and booking-form.html.
+
+Git 
+
+1. Once I created the main files and folders I then used the git add . command to add them to the staging area.
+2. Once they were staged I then used git commit -m "initial commit" to commit them to github.
+3. I then used git push to push the files onto my gihub page.
+4. I used these steps to commit the project regularly throughout the development to keep everything saved and up to date on my github.
+
+To make my project live I then used github pages.
+
+1. I First signed into github and located my repository
+2. At the top of the repository I selected the settings option.
+3. I then scrolled down the page until I reached the github pages section.
+4. Under sources I selected the Master Branch.
+5. The page then refreshed itself.
+6. I then scrolled back down and the link to my live page was then visible.
 
 
 ## Credits
