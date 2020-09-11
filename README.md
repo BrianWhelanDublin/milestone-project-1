@@ -1,6 +1,46 @@
 # The Oslo Hotel Website
 ## Milestone Project 1
 
+- [The Oslo Hotel Website](#the-oslo-hotel-website)
+  * [Milestone Project 1](#milestone-project-1)
+  * [Live project](#live-project)
+  * [Screenshots](#screenshots)
+    + [Landing page screenshot](#landing-page-screenshot)
+    + [Section page screenshot](#section-page-screenshot)
+    + [Booking-form screenshot](#booking-form-screenshot)
+- [User experience](#user-experience)
+  * [User Stories](#user-stories)
+    + [Prospective guest](#prospective-guest)
+    + [Booked Guest](#booked-guest)
+    + [Wire frames](#wire-frames)
+  * [Design](#design)
+    + [Colour Scheme](#colour-scheme)
+    + [Typography](#typography)
+    + [Imagery](#imagery)
+    + [Icons](#icons)
+  * [Features](#features)
+    + [Current Features](#current-features)
+    + [Future Features](#future-features)
+  * [Technologies used](#technologies-used)
+    + [Languages Used.](#languages-used)
+    + [Frameworks Libraries and Programs](#frameworks-libraries-and-programs)
+  * [Testing](#testing)
+    + [Testing User Stories](#testing-user-stories)
+    + [Prospective guest](#prospective-guest-1)
+    + [Booked Guest](#booked-guest-1)
+    + [Code Testing](#code-testing)
+      - [Know issues](#know-issues)
+      - [Further Testing](#further-testing)
+  * [Deployment](#deployment)
+    + [Github, Gitpod, Git and Gitub pages](#github--gitpod--git-and-gitub-pages)
+  * [Credits](#credits)
+    + [Code](#code)
+    + [Media](#media)
+    + [Content.](#content)
+    + [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 - The aim of this project is to create a static front end site of at least 3 pages or sections using the technologies I have learned so far such as, HTML, Css, and optional Bootstrap or other libraries. The aim of the site is to present useful information in an ordered way to a set of users.
 - I have decided to created a website for a fictional hotel. I have utilised all the elements I have learned in the previous modules to create this page and used principals of good user experience to create a responsive, well designed functional website.
 - My site consists of a landing page to introduce the hotel and the section pages. The site then has 3 pages, one for the hotel guest rooms, one for the hotel food and bar options, and the final for the spa and leisure options. There is also a booking form section for potential guest to fill out to book rooms.
