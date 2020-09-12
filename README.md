@@ -1,6 +1,36 @@
 # The Oslo Hotel Website
 ## Milestone Project 1
 
+
+- The aim of this project is to create a static front end site of at least 3 pages or sections using the technologies I have learned so far such as, HTML, Css, and optional Bootstrap or other libraries. The aim of the site is to present useful information in an ordered way to a set of users.
+- I have decided to created a website for a fictional hotel. I have utilised all the elements I have learned in the previous modules to create this page and used principals of good user experience to create a responsive, well designed functional website.
+- My site consists of a landing page to introduce the hotel and the section pages. The site then has 3 pages, one for the hotel guest rooms, one for the hotel food and bar options, and the final for the spa and leisure options. There is also a booking form section for potential guest to fill out to book rooms.
+
+
+## Live project
+
+- [View the live project here.](https://brianwhelandublin.github.io/milestone-project-1/)
+
+## Screenshots
+
+
+### Landing page screenshot
+
+<h3 align="center"><img src="assets/images/screenshots/landing-page-screenshot.png"></h2>
+
+### Section page screenshot
+
+<h3 align="center"><img src="assets/images/screenshots/section-page-screenshot.png"></h2>
+
+### Booking-form screenshot
+
+<h3 align="center"><img src="assets/images/screenshots/booking-form-screenshot.png"></h2>
+
+
+- All screen shots created using [Am I responsive](http://ami.responsivedesign.is/)
+
+# Table of contents
+
 - [The Oslo Hotel Website](#the-oslo-hotel-website)
   * [Milestone Project 1](#milestone-project-1)
   * [Live project](#live-project)
@@ -40,33 +70,6 @@
     + [Acknowledgements](#acknowledgements)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-- The aim of this project is to create a static front end site of at least 3 pages or sections using the technologies I have learned so far such as, HTML, Css, and optional Bootstrap or other libraries. The aim of the site is to present useful information in an ordered way to a set of users.
-- I have decided to created a website for a fictional hotel. I have utilised all the elements I have learned in the previous modules to create this page and used principals of good user experience to create a responsive, well designed functional website.
-- My site consists of a landing page to introduce the hotel and the section pages. The site then has 3 pages, one for the hotel guest rooms, one for the hotel food and bar options, and the final for the spa and leisure options. There is also a booking form section for potential guest to fill out to book rooms.
-
-
-## Live project
-
-- [View the live project here.](https://brianwhelandublin.github.io/milestone-project-1/)
-
-## Screenshots
-
-
-### Landing page screenshot
-
-<h3 align="center"><img src="assets/images/screenshots/landing-page-screenshot.png"></h2>
-
-### Section page screenshot
-
-<h3 align="center"><img src="assets/images/screenshots/section-page-screenshot.png"></h2>
-
-### Booking-form screenshot
-
-<h3 align="center"><img src="assets/images/screenshots/booking-form-screenshot.png"></h2>
-
-
-- All screen shots created using [Am I responsive](http://ami.responsivedesign.is/)
 
 
 # User experience
