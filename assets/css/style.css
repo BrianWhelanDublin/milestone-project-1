@@ -305,6 +305,13 @@ a:hover,
 .social-media-links li {
     padding: 2rem;
 }
+/* 404 page */
+.heading-404{
+    font-size:8vw
+}
+.link-404{
+    font-size:8vw;
+}
 /* @ media Querys */
 @media (min-width: 576px) {
     .section-row,
