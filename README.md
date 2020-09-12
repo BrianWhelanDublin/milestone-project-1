@@ -29,15 +29,9 @@
 
 - All screen shots created using [Am I responsive](http://ami.responsivedesign.is/)
 
+
 # Table of contents
 
-- [The Oslo Hotel Website](#the-oslo-hotel-website)
-  * [Milestone Project 1](#milestone-project-1)
-  * [Live project](#live-project)
-  * [Screenshots](#screenshots)
-    + [Landing page screenshot](#landing-page-screenshot)
-    + [Section page screenshot](#section-page-screenshot)
-    + [Booking-form screenshot](#booking-form-screenshot)
 - [User experience](#user-experience)
   * [User Stories](#user-stories)
     + [Prospective guest](#prospective-guest)
@@ -61,6 +55,7 @@
     + [Code Testing](#code-testing)
       - [Know issues](#know-issues)
       - [Further Testing](#further-testing)
+      - [404 error](#404-error)
   * [Deployment](#deployment)
     + [Github, Gitpod, Git and Gitub pages](#github--gitpod--git-and-gitub-pages)
   * [Credits](#credits)
@@ -278,6 +273,10 @@ Once finished I tested the site across different screen sizes and different brow
 - I noticed the heading text was very small and less noticeable on smaller screens so I enlarged its size and added an opaque background to make it stand out more.
 - I also noticed some minor spelling mistakes which I have fixed. 
 - I've also checked all links numerous times to make sure they all work. 
+
+#### 404 error
+
+- I used github to add a custom 404 error page if the user enters a wrong url to the page. I created a 404.html page on my repository by clicking the add file button and then added my html and css to it. I've added my navbar and footer to this page as well as a link back to the index.html page. 
 
 
 ## Deployment
